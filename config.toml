@@ -1,9 +1,10 @@
-[Revanced Extended]
+[YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
+build-mode = "both"
 included-patches = "add-splash-animation custom-branding-icon-mmt materialyou"
 excluded-patches = "custom-branding-icon-revancify-blue microg-support theme"
 
@@ -27,3 +28,4 @@ apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 
 [Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+
